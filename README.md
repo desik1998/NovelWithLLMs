@@ -60,3 +60,6 @@ Also as the events are generated, one keeps getting new ideas to proceed on the 
    * Train a reward model (With or without LLM) for determining which generated event is better. [LLM as Reward model](https://arxiv.org/html/2401.10020v1)
 3. The current approach generates only 1 story. Instead generate a Tree of possible stories for a given plot. For example, multiple generations for an event can be good, in this case, select all of them and create different stories.
 4. Use the same approach for other things such as movie story generation, Product document generation etc
+
+## LICENSE:
+MIT
