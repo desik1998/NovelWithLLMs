@@ -19,6 +19,7 @@ Once chapters are fixed, now start with the generation of events in a chapter bu
 **Gist:** Generate the event multiple times with different temperatures and take the best amongst them. If it still doesn't work, prompt it to avoid doing the wrong things it's doing
 
 Instead of generating the next event in a chat conversation mode, giving the whole story till now as a combination of events in a single prompt and asking it to generate next event worked better. 
+
 **Conversation Type 1:**
 
 ```
