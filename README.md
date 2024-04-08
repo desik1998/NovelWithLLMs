@@ -20,23 +20,27 @@ Once chapters are fixed, now start with the generation of events in a chapter bu
 
 Instead of generating the next event in a chat conversation mode, giving the whole story till now as a combination of events in a single prompt and asking it to generate next event worked better. 
 **Conversation Type 1:**
-"
- human: generate 1st event
- Claude: event1
- human: generate next, 
- Claude: event2, 
- human: generate next ...
-", 
+
+```
+human: generate 1st event
+Claude: event1
+human: generate next, 
+Claude: event2, 
+human: generate next ...
+```
 
 **Conversation Type 2:**
-Human: 
+```
+Human:
 Story till now
-```
 [event1 + event2 + ... + EventN]
-```
 Generate next event
-Claude: 
+
+
+Claude:
 Event(N+1)
+```
+
 
 Also as the events are generated, one keeps getting new ideas to proceed on the story chapters. And if any event generated is so good, but aligns little different from current story, one can also change the future story/chapters.
 
