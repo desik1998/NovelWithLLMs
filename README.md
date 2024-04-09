@@ -84,7 +84,8 @@ Also as the events are generated, one keeps getting new ideas to proceed on the 
    * Use an LLM to determine what are the best events or top 2-3 events generated. This can be done based on multiple factors such as whether the event is a continuation, the event is not repeating itself. And based on these factors, LLM can rate the top responses. References: [Last page in this paper](https://huggingface.co/papers/2308.06259)
    * Train a reward model (With or without LLM) for determining which generated event is better. [LLM as Reward model](https://arxiv.org/html/2401.10020v1)
 3. The current approach generates only 1 story. Instead generate a Tree of possible stories for a given plot. For example, multiple generations for an event can be good, in this case, select all of them and create different stories.
-4. Use the same approach for other things such as movie story generation, Product document generation etc
+4. Use the same approach for other things such as movie story generation, Text Books, Product document generation etc
+5. Benchmark LLMs Long Context not only on RAG but also on Generation 
 
 ## LICENSE:
 MIT
