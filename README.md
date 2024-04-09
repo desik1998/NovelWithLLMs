@@ -1,6 +1,6 @@
 This project showcases the ability to write a long story/novel **well grounded in details, feels human like and has coherence of events** using LLM. Although the story is heavily grounded in details, this project doesn't aim to create a **SOTA story** but is just a demonstration of how to generate long stories well grounded in details using LLMs
 
-Currently a story of 35K words / 3 chapters is already written using this Approach. The overall story is of 7 chapters and the rest 4 chapters are currently being written (High Level plot, chapters are already present). 
+Currently a story of **35K words / 3 chapters** is already written using this Approach. The overall story is of **7 chapters and the rest 4 chapters** are currently being written (High Level plot, chapters are already present). 
 
 The current plotline is **What happens if the American founding fathers come back to life in 21st century**. [Story till now](https://github.com/desik1998/NovelWithLLMs/blob/main/Novel.md). I've reviewed this with many people who are avid story readers and most have agreed that it didn't feel AI generated, it's interesting (subjective but most have said this), grounds heavily on details. If there are any political biases, they might be of my own and request readers to avoid over emphasizing on these.
 
