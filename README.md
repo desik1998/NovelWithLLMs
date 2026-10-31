@@ -1,3 +1,5 @@
+### Note: Legendary deep learning researcher Andrej Karpathy took this idea further by using a reasoning model to create a story in which America's Founding Fathers return to modern-day America [[ref](https://karpathy.ai/blog/foundingfathers.html)]
+
 This project showcases the ability to write a long story/novel **well grounded in details, feels human like and has coherence of events** using LLM. Although the story is heavily grounded in details, this project doesn't aim to create a **SOTA story** but is just a demonstration of how to generate long stories well grounded in details using LLMs
 
 Currently a story of **35K words / 3 chapters** is already written using this Approach. The overall story is of **7 chapters and the rest 4 chapters** are currently being written (High Level plot, chapters are already present). 
